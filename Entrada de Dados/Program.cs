@@ -19,6 +19,8 @@
 
         Console.WriteLine("Olá " + nome + " a tecla que você pressionou foi: " + TeclaPressionada);
 
+        Console.WriteLine("Pressione qualquer tecla para sair!");
+
         Console.ReadKey();
     }
 }
